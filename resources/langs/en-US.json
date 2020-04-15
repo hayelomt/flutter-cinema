@@ -1,0 +1,15 @@
+{
+  "title": "Cinema",
+  "settings": "Settings",
+  "language": "Language",
+  "movies": "Movies",
+  "trending": "Trending",
+  "buy_ticket": "But Ticket",
+  "cast": "Cast",
+  "selected": "Selected",
+  "reserved": "Reserved",
+  "available": "Available",
+  "purchase_success": "Purchase succeeded",
+  "done": "Done",
+  "checkout": "Checkout"
+}

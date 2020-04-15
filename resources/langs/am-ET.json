@@ -1,0 +1,15 @@
+{
+  "title": "ሲኒማ",
+  "settings": "ቅንጅቶች",
+  "language": "ቋንቋ",
+  "movies": "ፊልሞች",
+  "trending": "አዝማሚያ",
+  "buy_ticket": "ትኬት ይግዙ",
+  "cast": "ተዋንያን",
+  "selected": "የተመረጠ",
+  "reserved": "የተያዘ",
+  "available": "ያልተያዘ",
+  "purchase_success": "ግዚ ተሳክቷል",
+  "done": "ጨርስ",
+  "checkout": "ጨርሰህ ውጣ"
+}

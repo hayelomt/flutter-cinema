@@ -1,4 +1,7 @@
 # cinema
+
 Simple cinema application with localization
 
-## Getting Started
+## Demo
+
+![Alt Text](assets/cinema.gif)
